@@ -1,0 +1,67 @@
+Web-based Online Inventory Management System(IMS) for the IMS_Soft400 Team
+==========================================================================
+
+This will be the work plan for the week and the required mile stones
+
+----------------------------------------------------------------------------------------------------
+- Monday 12th January, 2015 - Wednesday 14th January, 2015
+	
+  This time will be the time we are looking at the sales binder site(http://www.salesbinder.com).
+  Each and everyone of us will create an account on it an tour it to see how it functions so we can 
+  better understand the concept of IMS.
+  
+- Mile Stone
+
+--------------------------------------------------------------------------------------------------------
+  
+  Everyone should atleast at this point know about IMS and have toured the site and know how it functions
+  so that we can code ours with no problem.
+  
+ - Thurday 15th January, 2015 - Sunday 18th January, 2015
+ 
+   We shall be holding meetings on how to design the database for the system and also along site 
+   revising our laravel, php and web skill preparing for the coding to begin. Also we should be reading
+   some docs online concerning IMS, Git(version control system).
+   
+ - Mile Stone
+ 
+   At this level, everyone should know how to use Git(version control) and also how to code on laravel.
+   Also we will have designed our database and set for coding the system in little or no time from now.
+   
+----------------------------------------------------------------------------------------------------------
+
+Note: 
+  We shall be using git for our version control and each and everyone of us will create his/her own separate
+  branch in the project from the master branch. Working on your own branch will be like modularizing the project
+  and everyone has a copy of the project. When ever you are done with your part or you have reached a particular
+  milestone, you can commit(pull) the changes to the master branch so that any other team member can pull the master
+  branch to sync it with his/her own. So the master branch is the full project which is working.
+  For example: 
+  	Since we are 4 of us on the project, we shall have 4 branches and 1 master branch
+  	Melvis branch-----------|
+  				|
+  				|
+  	Roc4rd brach------------|
+  				|---------------> master branch
+  				|
+  	Isidores branch---------|
+  				|
+  				|
+  	d3r1ck branch-----------|
+  	
+ So when we make changes to our branch, we should push it to the master branch so that everyone can pull the master
+ branch and see the progress of your work. This happens for everybody and the master branch holds the final copy
+ of the system.
+ 
+ For further details, we shall have a meeting tomorrow so that we discuss and further our explanation in the document.
+ 
+ 
+ Team Member
+ ===========
+ 
+ Muba Melvis Ringyu(Project Lead)
+ Isidore Fru Che
+ Fonji Fonkeng Rocard
+ Alangi Derick Ndimnain
+ 
+ 								Thanks
